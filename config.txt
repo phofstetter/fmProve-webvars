@@ -1,0 +1,2 @@
+$latestVersion = 3.0;
+$downloadLink = "https://raw.githubusercontent.com/filemakerstandards/webvars/master/Download%20Example.fmp12"
