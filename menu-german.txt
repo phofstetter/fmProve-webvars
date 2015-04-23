@@ -1,4 +1,4 @@
-Willkommen|#("url" ; "welcome.html")
+Willkommen|#("script" ; "open Main Layout") & #("url" ; "welcome.html")
 KUNDEN|#("script" ; "open Kunden Layout")
 MASCHINEN|#("url" ; "https://www.youtube.com/watch?v=ORLfxldFi0E")
 MESSUNG|#("html" ; "<h1>Not Ready</h1><h4>This section has not been completed</h4>")

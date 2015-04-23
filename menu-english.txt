@@ -1,4 +1,4 @@
-Welcome|#("url" ; "welcome.html")
+Welcome|#("script" ; "open Main Layout") & #("url" ; "welcome.html")
 CUSTOMERS|#("script" ; "open Kunden Layout")
 YouTube Help Video|#("url" ; "https://www.youtube.com/watch?v=ORLfxldFi0E")
 Recent releases|#("html" ; "<h1>Not Ready</h1><h4>This section has not been completed</h4>")
