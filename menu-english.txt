@@ -1,6 +1,6 @@
 Welcome|#("script" ; "open Main Layout") & #("url" ; "welcome.html")
 CUSTOMERS|#("script" ; "open Kunden Layout")
-YouTube Help Video|#("url" ; "https://www.youtube.com/watch?v=ORLfxldFi0E")
+MACHINES|#("script" ; "open Maschinen Layout")
 Recent releases|#("html" ; "<h1>Not Ready</h1><h4>This section has not been completed</h4>")
 Submit Bug|#("script" ; 000) & #("html" ; "<h1>Submit Bug</h1><h4>Click the link Submit Bug to submit another.</h4>")
 Message Only|#("message" ; "Hey, this is a message!")

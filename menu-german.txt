@@ -1,6 +1,6 @@
 Willkommen|#("script" ; "open Main Layout") & #("url" ; "welcome.html")
 KUNDEN|#("script" ; "open Kunden Layout")
-MASCHINEN|#("url" ; "https://www.youtube.com/watch?v=ORLfxldFi0E")
+MASCHINEN|#("script" ; "open Maschinen Layout")
 MESSUNG|#("html" ; "<h1>Not Ready</h1><h4>This section has not been completed</h4>")
 SPRACHEN|#("script" ; 000) & #("html" ; "<h1>Submit Bug</h1><h4>Click the link Submit Bug to submit another.</h4>")
 Einzelner Text|#("message" ; "Hey, this is a message!")
