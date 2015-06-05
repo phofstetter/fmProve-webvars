@@ -1,7 +1,7 @@
 Welcome|#("script" ; "open Main Layout") & #("url" ; "welcome.html")
 CUSTOMERS|#("script" ; "open Kunden Layout")
 MACHINES|#("script" ; "open Maschinen Layout")
-Recent releases|#("html" ; "<h1>Not Ready</h1><h4>This section has not been completed</h4>")
+MEASURES|#("script" ; "open Messungen Layout")
 Submit Bug|#("script" ; 000) & #("html" ; "<h1>Submit Bug</h1><h4>Click the link Submit Bug to submit another.</h4>")
 Message Only|#("message" ; "Hey, this is a message!")
 Message With URL|#("message" ; "Have you updated lately!") & #("url" ; "http://www.filemaker.com/support/downloads/")
