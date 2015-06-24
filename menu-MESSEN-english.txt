@@ -1,0 +1,3 @@
+Welcome|#("script" ; "open Main Layout") & #("url" ; "welcome.html")
+MEASURES|#("script" ; "open Messungen Layout")
+Role: MESSEN
