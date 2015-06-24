@@ -3,7 +3,4 @@ KUNDEN|#("script" ; "open Kunden Layout")
 MASCHINEN|#("script" ; "open Maschinen Layout")
 MESSUNGEN|#("script" ; "open Messungen Layout")
 SPRACHEN|#("script" ; 000) & #("html" ; "<h1>Submit Bug</h1><h4>Click the link Submit Bug to submit another.</h4>")
-Einzelner Text|#("message" ; "Hey, this is a message!")
-Nachricht mit URL|#("message" ; "Have you updated lately!") & #("url" ; "http://www.filemaker.com/support/downloads/")
-Kontroll Variablen|#("vars" ; #("foo" ; "bar")) & #("message" ; "The variable $foo was created with \"bar\"")
-Dialogfenster|#("dialog" ; #("dialogTitle" ; "Hello World") & #("dialogMessage" ; "Look Ma, it works!") & #("dialogButton"; "Awesome" ) )
+Rolle: Admin
