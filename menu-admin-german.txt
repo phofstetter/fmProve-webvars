@@ -2,5 +2,4 @@ Willkommen|#("script" ; "open Main Layout") & #("url" ; "welcome.html")
 KUNDEN|#("script" ; "open Kunden Layout")
 MASCHINEN|#("script" ; "open Maschinen Layout")
 MESSUNGEN|#("script" ; "open Messungen Layout")
-(SPRACHEN)|#("script" ; 000) & #("html" ; "<h1>Submit Bug</h1><h4>Click the link Submit Bug to submit another.</h4>")
-[Rolle: Admin]
+[Rolle: Admin]|#("message" ; "Du bist bei fmProve zur Zeit eingelogt mit der Rolle Administrator")
