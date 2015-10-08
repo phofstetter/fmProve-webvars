@@ -1,6 +1,13 @@
 Willkommen|#("script" ; "open Main Layout") & #("url" ; "welcome.html")
+Willkommen|#("script" ; "open Main Layout") & #("url" ; "welcome.html")
 KUNDEN|#("script" ; "open Kunden Layout")
 MASCHINEN|#("script" ; "open Maschinen Layout")
-MESSUNGEN|#("script" ; "open Messungen Layout")
-(SPRACHEN)|#("script" ; 000) & #("html" ; "<h1>Submit Bug</h1><h4>Click the link Submit Bug to submit another.</h4>")
+⊢MESSUNGEN|#("script" ; "open Messungen Layout")
+⊢PRÜFSCHRITTE|#(„script" ; "open Pruefschritte Layout") & #("message" ; "ToDo")
+⊢MESSWERTE|#(„script" ; "open Messpunkte-Werte Layout") & #("message" ; "ToDo")
+⊢RULES|#("script" ; "open Rules Layout") & #("message" ; "ToDo")
+⊢(MEDIEN)|#(„script" ; "open Medien Layout") & #("message" ; "ToDo")
+⊢VERSIONEN|#("script" ; "open Versionen Layout")
+LOG|#("script" ; "open Log Layout")
+
 [Rolle: Benutzer]
