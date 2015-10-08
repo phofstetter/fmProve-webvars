@@ -10,3 +10,5 @@ MASCHINEN|#("script" ; "open Maschinen Layout")
 ⊢SPRACHEN|#("script" ; "open Sprachen Layout")
 LOG|#("script" ; "open Log Layout")
 EINSTELLUNGEN|#("script" ; "open Einstellungen Layout")
+
+[Rolle: Doku]
